@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "outDir": "./dist"
+    },
+    "include": ["."],
+    "exclude": ["dist", "node_modules", "**/*.spec.ts"]
+}
